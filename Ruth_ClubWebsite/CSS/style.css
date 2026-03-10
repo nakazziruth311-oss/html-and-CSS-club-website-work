@@ -7,10 +7,11 @@ table {
     border-collapse: collapse; width:100%
 }
 th, td {
-    border: 1px solid hsl(0, 84%, 41%) 
-    padding:8px
+    border: 1px solid hsl(0, 0%, 6%) 
+    
 }
 body{
-    background-color: aqua;
+    background-color:honeydew
 }
+
 
